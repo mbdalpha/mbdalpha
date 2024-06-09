@@ -7,6 +7,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Badges - Readme
-        uses: pemtajo/badge-readme@main
+        uses: rbkl984/README.md@main
         with:       
           CREDLY_USER: "rbk l984" # optional, but default will use the same from github
