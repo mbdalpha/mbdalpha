@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rbkl984
 - 👀 I’m interested in compsci, medicine, biotech
-- 🌱 I’m currently learning Python, HTML, JS, CSS
+- 🌱 I’m currently learning Python, Rust, HTML, JS, and CSS
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
