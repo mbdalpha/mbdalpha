@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @mbdalpha, also known by mbda on discord.
-- 👀 I’m interested in compsci, medicine, biotech.
+- 👀 I’m interested in compsci, medicine, Japanese.
 - 🌱 I’m currently learning Python, Rust, HTML, JS, and CSS.
 
 <!--START_SECTION:badges-->
