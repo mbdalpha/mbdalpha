@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @mbdalpha, also known by mbda on discord.
-- 👀 I’m interested in compsci, medicine, Japanese.
-- 🌱 I’m currently learning Python, Rust, HTML, JS, and CSS.
+- 👋 Hi, I’m @mbdalpha, also known by mbda on Discord.
+- 👀 I’m interested in compsci, robotics, and Japanese.
+- 🌱 I’m currently learning Python, Rust, HTML, ARM Assembly, and Java.
 
 <!--START_SECTION:badges-->
 <!--END_SECTION:badges-->
