@@ -8,7 +8,7 @@
 
 <p align="center">
   Contributing to hardware and autonomous systems at <a href="https://www.formulatrinity.ie/">Formula Trinity</a><br>
-  Learning Japanese on the side — check out <a href="https://github.com/mbdalpha/lc-japanese">lc-japanese</a><br>
+  Learning Japanese on the side: see  <a href="https://github.com/mbdalpha/lc-japanese">lc-japanese</a><br>
   Reach me on Matrix: <b><a href="https://matrix.to/#/@mbdalpha:matrix.org">@mbdalpha:matrix.org</a></b>
 </p>
 
