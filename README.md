@@ -41,11 +41,5 @@
 ---
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mbdalpha&show_icons=true&theme=radical&border_color=00ff41&icon_color=00ff41&title_color=00ff41&hide_border=false" alt="GitHub Stats" height="170"/>
-  &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mbdalpha&layout=compact&theme=radical&border_color=00ff41&title_color=00ff41&hide_border=false" alt="Top Languages" height="170"/>
-</p>
-
-<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mbdalpha&theme=radical&border=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41" alt="GitHub Streak" />
 </p>
