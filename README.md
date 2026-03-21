@@ -17,10 +17,11 @@
 
 | Project | Description |
 |---------|-------------|
-| [lc-japanese](https://github.com/mbdalpha/lc-japanese) | A Japanese language learning website |
+| [ft_grandprix](https://github.com/mbdalpha/ft_grandprix.git) | My submission for the Formula Trinity X OpenAI AI GP - Got to the finals |
 | [FT-Hardware](https://github.com/FT-Autonomous/FT-Hardware) | Formula Trinity Hardware contributions |
 | [ft_ads](https://github.com/FT-Autonomous/ft_ads) | Formula Trinity AI/ADS interface |
 | [lc-compsci](https://github.com/mbdalpha/lc-compsci) | Leaving Cert CS coursework and projects |
+| [lc-japanese](https://github.com/mbdalpha/lc-japanese) | A Japanese language learning website |
 
 </div>
 
