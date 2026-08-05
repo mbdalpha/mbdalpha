@@ -22,7 +22,6 @@
 | [ft_ads](https://github.com/FT-Autonomous/ft_ads) | Formula Trinity AI/ADS interface |
 | [moonlink-pwa](https://github.com/mbdalpha/moonlink-pwa) | PWA that drives a physical MoonBoard LED wall over Web Bluetooth ([live demo](https://mbdalpha.github.io/moonlink-pwa/)), paired with my [moonboard-scraper](https://github.com/mbdalpha/moonboard-scraper) |
 | [lc-compsci](https://github.com/mbdalpha/lc-compsci) | Leaving Cert CS coursework and projects |
-| [lc-japanese](https://github.com/mbdalpha/lc-japanese) | A Japanese language learning website |
 
 </div>
 
