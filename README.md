@@ -1,9 +1,5 @@
 <h1 align="center">Hey, I'm mbda</h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00FF41&center=true&vCenter=true&width=435&lines=CS+student;Embedded+%26+robotics+enthusiast" alt="Typing SVG" />
-</p>
-
 ---
 
 <p align="center">
