@@ -3,6 +3,7 @@
 ---
 
 <p align="center">
+  DevOps @ <a href="https://hoplite.sh/">Hoplite</a><br>
   Contributing to hardware and autonomous systems at <a href="https://www.formulatrinity.ie/">Formula Trinity</a><br>
   Reach me on Matrix: <b><a href="https://matrix.to/#/@mbdalpha:matrix.org">@mbdalpha:matrix.org</a></b>
 </p>
